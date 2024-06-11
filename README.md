@@ -1,19 +1,17 @@
-# TÍTULO DO PROJETO
+# Controle de Volume Por Gestos
 
 `PPC-CC: PUC Poços de Caldas - Ciência da Computação`
-`Disciplina: NOME DA DISCIPLINA`
-`2021 - Semestre 1`
+`Disciplina: Visão Computacional e Realidade Misturada`
+`2024 - Semestre 1`
 
 ## Integrantes
 
-- Jeff Bezos
-- Bill Gates
-- Larry Ellison
-- Mark Zuckerberg
+- Raul André da Silva Almeida
+- Luiz Henrique Pires Colombo
 
 ## Professor
 
-- Mestre Yoda
+- Will Ricardo dos Santos Machado
 
 # Documentação
 
